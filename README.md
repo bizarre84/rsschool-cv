@@ -1,0 +1,1 @@
+[https://bizarre84.github.io/rsschool-cv/cv](https://bizarre84.github.io/rsschool-cv/cv)
