@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
+
+@font-face {
+  font-family: 'Font Awesome 5 Brands';
+  font-style: normal;
+  font-weight: normal;
+  font-display: auto;
+  src: url("fonts/fa-brands-400.eot");
+  src: url("fonts/fa-brands-400.eot?#iefix") format("embedded-opentype"), url("fonts/fa-brands-400.woff2") format("woff2"), url("fonts/fa-brands-400.woff") format("woff"), url("fonts/fa-brands-400.ttf") format("truetype"), url("fonts/fa-brands-400.svg#fontawesome") format("svg"); }
+
+.fab {
+  font-family: 'Font Awesome 5 Brands';
+}
+
+@font-face {
+  font-family: 'Font Awesome 5 Free';
+  font-style: normal;
+  font-weight: 900;
+  font-display: auto;
+  src: url("fonts/fa-solid-900.eot");
+  src: url("fonts/fa-solid-900.eot?#iefix") format("embedded-opentype"), url("fonts/fa-solid-900.woff2") format("woff2"), url("fonts/fa-solid-900.woff") format("woff"), url("fonts/fa-solid-900.ttf") format("truetype"), url("fonts/fa-solid-900.svg#fontawesome") format("svg"); }
+
+.fa,
+.fas {
+  font-family: 'Font Awesome 5 Free';
+  font-weight: 900; }
+
+body {
+  font-family: 'Roboto', 'Arial', sans-serif;
+  font-size: 16px;
+}
+
+h1 {
+  font-weight: 700;
+}
+h2 {
+  font-size: 1.8em;
+  margin: 0.5em 0;
+}
+
+.fas,
+.fab {
+  margin: 0 0.3em;
+  color: #696969
+}
+
+.fa-phone-alt:before {
+  content: "\f879";
+}
+
+.fa-envelope:before {
+  content: "\f0e0";
+}
+
+.fa-telegram-plane:before {
+  content: "\f3fe";
+}
+
+a {
+  text-decoration: none;
+  color: #696969;
+}
+
+a:hover {
+  color: #191919
+}
+
+p {
+  text-align: justify;
+  line-height: 1.4em;
+  margin: 0.5em auto;
+}
+.wrap {
+  display: flex;
+  justify-content: center;
+  max-width: 1024px;
+  margin: 0 auto;
+}
+
+.circle {
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+  margin: 15px;
+}
+
+#contact {
+  display: flex;
+  flex-direction: column;
+  margin: 1em 2em;
+}
+
+ul
+li {
+  margin: 0.5em 0;
+}
+
+#main {
+  flex-direction: column;
+}
+
+#main section {
+  margin: 1em 2em;
+}
+
+@media screen and (max-width:640px){
+  #header {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .circle {
+    margin: 1em auto;
+  }
+}
