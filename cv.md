@@ -25,3 +25,22 @@ The main goal that I set for myself when I enrolled in these courses is to struc
 ## Code examples
 
 [Link to my repositery on GitHub](https://github.com/bizarre84?tab=repositories)
+
+---
+
+## Experience
+
+Almost all the projects with which I worked were not mine. My tasks included supporting and developing an existing project.
+
+---
+
+## Education
+
+EE «Vitebsk State Technological University» faculty of advanced training and retraining of personnel - Information Systems Software
+
+--- 
+
+## English
+
+A2 according to the test on the site [https://www.efset.org/](https://www.efset.org/quick-english-check/take-test/#set15-090/take-test)
+Communication practice is absent.
